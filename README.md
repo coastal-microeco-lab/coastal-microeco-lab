@@ -10,5 +10,4 @@ Current lab members:
 - Marley Gonsalves, M.S. - Ph.D. student
 - Camille Kroot, B.S. - M.S. student
 - Seren Davies - Undergraduate researcher
-- Jett Chan - Undergraduate researcher
 - David Popa - Undergraduate researcher
